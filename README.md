@@ -11,10 +11,10 @@ Mô phỏng tấn công SQL Injection và các cơ chế phòng thủ bằng Spr
 </p>
 
 
-## 👥 THÀNH VIÊN
-
-* Nguyễn Thị Thu Giang - 23010871
-* Ngô Thị Minh Phương - 23012156
+## 👨‍💻 Author / Creator
+**Ngô Thị Minh Phương** 
+* GitHub: (https://github.com/mfuongg)
+* Email: fuongm06@example.com
 
 ---
 
