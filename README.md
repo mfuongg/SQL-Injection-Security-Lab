@@ -15,8 +15,6 @@ Mô phỏng tấn công SQL Injection và các cơ chế phòng thủ bằng Spr
 
 * Nguyễn Thị Thu Giang - 23010871
 * Ngô Thị Minh Phương - 23012156
-* Hoàng Vân Quỳnh - 23010836
-* Nguyễn Bá Đức - 23010765
 
 ---
 
