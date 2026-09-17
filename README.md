@@ -13,7 +13,7 @@ Mô phỏng tấn công SQL Injection và các cơ chế phòng thủ bằng Spr
 
 ## 👨‍💻 Author / Creator
 **Ngô Thị Minh Phương** 
-* GitHub: (https://github.com/mfuongg)
+* GitHub: https://github.com/mfuongg
 * Email: fuongm06@example.com
 
 ---
